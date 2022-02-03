@@ -1,11 +1,11 @@
-id: f3ce7069c9d5427fae0a9490636b9618
+id: bd66f91a43e8492497945fbe98d9f195
 annotation_type: index
 revision: '00001'
 annotations:
-  0b63e5f3f7854e3ebcf9f68e64fb7d58:
+  fbc1bfc75e5349dba7af4bfb0b822278:
     parts: {}
     span:
     - vol: 24
-      start: 0
-      end: 2746
+      start: 1
+      end: 2756
     work_id: D1937
